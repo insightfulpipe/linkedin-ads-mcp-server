@@ -1,11 +1,14 @@
-# LinkedIn Ads MCP Server
+# LinkedIn Ads MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/linkedin-ads)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Connect LinkedIn Ads to AI assistants for B2B advertising analytics and campaign optimization.**
 
-The LinkedIn Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your LinkedIn advertising campaigns. Optimize B2B marketing, track lead generation, and get AI-powered recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The LinkedIn Ads MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze your LinkedIn advertising campaigns. Optimize B2B marketing, track lead generation, and get AI-powered recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![LinkedIn Ads MCP Server](https://insightfulpipe.com/images/linkedin-app-icon.svg)
 
@@ -146,11 +149,20 @@ claude mcp add linkedin-ads https://linkedin-ads.insightfulmcp.com/
 - **Read-only access** - Safe analytics queries
 - **Enterprise security** - SOC 2 compliant
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### Advertising MCP Servers
 - [Google Ads MCP](https://insightfulpipe.com/mcp-servers/google-ads) - Search advertising
 - [Facebook Ads MCP](https://insightfulpipe.com/mcp-servers/facebook-ads) - Social advertising
+- [Microsoft Ads MCP](https://insightfulpipe.com/mcp-servers/microsoft-ads) - Bing advertising
+
+### B2B Tools
 - [Enrichment MCP](https://insightfulpipe.com/mcp-servers/enrichment) - Lead enrichment
+- [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Website analytics
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -161,7 +173,12 @@ claude mcp add linkedin-ads https://linkedin-ads.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
